@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://arnob-b-portfolio.vercel.app/](https://arnob-b-portfolio.vercel.app/)
 
-- 💬 Ask me about **react, nextjs and express**
+- 💬 Ask me about **react and nextjs**
 
 - 📫 How to reach me **arnobbhakta00@gmail.com**
 
